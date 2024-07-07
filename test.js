@@ -1,1 +1,1 @@
-alert('another hohohohoho :)')
+alert('another hohohohoho :)');
